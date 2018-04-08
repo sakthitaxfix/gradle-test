@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.ptest.testci" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-08T11:33:59" hostname="Admins-MacBook-Pro.local" time="45.025">
+  <properties/>
+  <testcase name="pureThoughts" classname="de.ptest.testci" time="45.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
